@@ -11,7 +11,7 @@
 	"dir": "ltr",
 	"LangCode": "bs",
 
-	"DateTime": "dd.mm.yyyy HH:MM",
+	"DateTime": "dd.mm.yyyy. u HH:MM",
 	"DateAmPm": [
 		"",
 		""
@@ -115,7 +115,7 @@
 	"SetDisplayDate": "Datum",
 	"SetDisplaySize": "Veličina datoteke",
 	"SetDisplayThumbnailSize": "Veličina sličice",
-	"SetView": "Pregled",
+	"SetView": "Prikaz",
 	"SetViewThumbnails": "Sličice",
 	"SetViewList": "Lista",
 	"SetSortBy": "Sortirtaj po",
@@ -187,17 +187,17 @@
 	},
 
 	"EditImage": {
-		"apply": "Primijeni",
-		"adjust": "Prilagodi",
-		"crop": "Izreži",
-		"presets": "Prethodno",
+		"apply": "Prihvati izmjene",
+		"adjust": "Podešavanje",
+		"crop": "Odsijecanje",
+		"presets": "Šabloni",
 		"resize": "Promjena veličine",
-		"rotate": "Rotiraj",
+		"rotate": "Rotacija",
 
 		"keepAspectRatio": "Zadrži omjer stranica",
 
-		"rotateClockwise": "90&deg; desno",
-		"rotateAntiClockwise": "90&deg; lijevo",
+		"rotateClockwise": "90&deg; na desno",
+		"rotateAntiClockwise": "90&deg; na lijevo",
 
 		"filters": {
 			"brightness": "Svjetlina",
@@ -215,7 +215,7 @@
 		},
 
 		"preset": {
-			"clarity": "Jasnoća",
+			"clarity": "Clarity",
 			"pinhole": "Pinhole",
 			"love": "Love",
 			"jarques": "Jarques",
@@ -241,7 +241,7 @@
 		"saveDialogOverwrite": "Prepiši datoteku",
 		"saveDialogSaveAs": "Sačuvaj kao:",
 		"saveDialogFileExists": "Datoteka sa istim nazivom već postoji u direktoriju.",
-		"reset": "Vrati",
+		"reset": "Vrati/Poništi",
 		"title": "Izmjena fotografije",
 		"save": "Sačuvaj",
 		"loading": "Učitavanje fotografije",
